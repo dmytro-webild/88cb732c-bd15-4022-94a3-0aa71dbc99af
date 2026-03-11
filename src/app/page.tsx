@@ -41,7 +41,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroCentered
-          title="Enterprise Software Solutions Built for Scale"
+          title="Cut Operations Costs by 40% with Integrated Enterprise Software"
           description="Comprehensive suite of business management applications designed to streamline operations, from ERP and project management to payroll and inventory. Trusted by manufacturing companies and enterprises worldwide."
           background={{ variant: "radial-gradient" }}
           avatars={[
